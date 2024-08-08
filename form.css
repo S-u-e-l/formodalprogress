@@ -1,0 +1,12 @@
+.container .progress {
+    height: 30px;
+    border-radius: 50px;
+}
+.progress-bar {
+    border-radius: 50px;
+}
+#progress-stacked {
+    height: 30px;
+    border-radius: 50px;
+    color: white;
+}

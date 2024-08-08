@@ -1,0 +1,23 @@
+.container .progress {
+  height: 35px;
+  border-radius: 50px;
+  box-shadow: 0px 5px 5px 5px gray;
+}
+.progress-bar {
+  border-radius: 50px;
+}
+.progress-bar1 {
+  height: 35;
+  color: white;
+}
+#progress-stacked {
+  height: 35px;
+  border-radius: 50px;
+  box-shadow: 0px 5px 5px 5px gray;
+}
+.form {
+    border-radius: 5px;
+}
+.ourform {
+    border-color: grey;
+}
